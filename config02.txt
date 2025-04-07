@@ -1,4 +1,4 @@
 // 기능 구현 기스트 설정
 // Account Mgmt
-// Login & Logout
-// Board List (CRUD)
+//update config02 file by admin
+// test for conflict                                                      
